@@ -9,7 +9,7 @@
     "express": "^4.17.1",
     "express-art-template": "^1.0.1",
     "html": "^1.0.0",
-    "mongoose": "^5.7.3"
+    "mongoose": "^5.7.5"
   },
   "devDependencies": {},
   "scripts": {
