@@ -1,0 +1,14 @@
+MongDB
+1、先确保盘下有/data/db ，然后在使用mongod
+2、连接+退出
+    mongo  
+    exit
+3、基本命令
+    show dbs 查看显示所有数据库
+    db 查看当前操作的数据库
+    user 数据库名称  切换到指定数据库
+    show collections
+    db.××.insertOne({})
+
+
+    

@@ -1,0 +1,46 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "AC",
+            "gender": "0",
+            "age": "18",
+            "hobbies": "eat sheep"
+        },
+        {
+            "id": 2,
+            "name": "B",
+            "gender": 1,
+            "age": 28,
+            "hobbies": "eat sheep CS1.5"
+        },
+        {
+            "id": 3,
+            "name": "C",
+            "gender": 1,
+            "age": 38,
+            "hobbies": "eat sheep"
+        },
+        {
+            "id": 4,
+            "name": "D",
+            "gender": 0,
+            "age": 48,
+            "hobbies": "eat sheep CS1.6"
+        },
+        {
+            "id": 5,
+            "name": "E",
+            "gender": 1,
+            "age": 58,
+            "hobbies": "eat sheep"
+        },
+        {
+            "name": "hi周婕纶",
+            "gender": "0",
+            "age": "11",
+            "hobbies": "1111111",
+            "id": 7
+        }
+    ]
+}
